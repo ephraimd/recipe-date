@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "first_test",
-    "slug": "first_test",
+    "name": "Recipe App",
+    "slug": "recipe_app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icons/playstore.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icons/icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,6 +21,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "org.brad.recipeapp"
     }
   }
 }
