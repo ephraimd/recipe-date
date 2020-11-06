@@ -1,5 +1,6 @@
 # recipe-date
-A straightforward and robust recipe app designed with the swipe feature, it allows you to rate and comment on recipes and allows you to have room chats with food enthusiasts
+A straightforward and robust recipe app designed with the swipe feature, it allows you to rate and comment on recipes and allows you to have room chats with food enthusiasts. 
+**Its still under development, pardon my clumsiness with the naming and all**
 
 ## Demo View
 [![Recipe Date App](https://j.gifs.com/wVW81w.gif)](https://www.linkedin.com/in/adedamola-ephraim-024409100/)
