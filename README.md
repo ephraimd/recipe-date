@@ -2,7 +2,7 @@
 A straightforward and robust recipe app designed with the swipe feature, it allows you to rate and comment on recipes and allows you to have room chats with food enthusiasts
 
 ## Demo View
-[![Recipe Date App](https://gifs.com/gif/recipe-date-wVW81w)](https://www.linkedin.com/in/adedamola-ephraim-024409100/)
+[![Recipe Date App](https://j.gifs.com/wVW81w.gif)](https://www.linkedin.com/in/adedamola-ephraim-024409100/)
 
 ## Usage
 Check under the *build* folder, the compiled apk is already bundled there. Simply install and enjoy.
